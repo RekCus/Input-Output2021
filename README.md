@@ -7,7 +7,7 @@ Team #
 Klas: GD2B
 
 ## VR Tactile Feedback
-in deze game interact je met objecten in vr, als je ze oppakt krijg je tactile feedback in de form van controller vibraties
+in deze game interact je met objecten in vr, als je ze oppakt krijg je tactile feedback in de form van controller vibraties. Er is een basketball hoop beschikbaar waar als je de bal door de hoop krijgt je controller vibreert.
 
 Wij heb gebruik gemaakt van:
 * Oculus Rift CV1
