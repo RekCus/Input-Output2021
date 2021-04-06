@@ -34,3 +34,6 @@ hier mijn links naar alle documentatie.
 * https://forum.unity.com/threads/released-vr-throw-lab-for-better-throwing-in-vr.878509/ 
 * https://www.kinematicsoup.com/news/2016/8/9/rrypp5tkubynjwxhxjzd42s3o034o8  
 * https://www.roadtovr.com/b-reel-simulating-object-weight-mass-virtual-reality-motion-controllers/ http://www.vweser.com/VRWeight2018WeserProffit.pdf
+* https://developer.oculus.com/documentation/
+* https://www.youtube.com/watch?v=9KJqZBoc8m4
+* https://www.youtube.com/watch?v=sKQOlqNe_WY&t=5s
