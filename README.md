@@ -37,3 +37,4 @@ hier mijn links naar alle documentatie.
 * https://developer.oculus.com/documentation/
 * https://www.youtube.com/watch?v=9KJqZBoc8m4
 * https://www.youtube.com/watch?v=sKQOlqNe_WY&t=5s
+* https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
