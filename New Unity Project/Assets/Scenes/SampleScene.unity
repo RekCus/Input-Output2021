@@ -1726,7 +1726,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: To respwan the ball, press the "A" button on your oculus controller.
+  m_Text: To respawn the ball, press the "A" button on your oculus controller.
 --- !u!222 &1469084106
 CanvasRenderer:
   m_ObjectHideFlags: 0
